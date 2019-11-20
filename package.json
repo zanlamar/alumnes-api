@@ -1,0 +1,16 @@
+{
+    "name": "alumnes-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "json-server alumnes.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.13.0",
+        "mem": "^5.1.1"
+    }
+}
