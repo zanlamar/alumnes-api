@@ -10,7 +10,7 @@
             "id": 2,
             "nom": "Joan",
             "cognoms": "Castanyera Raventós",
-            "nota": 6
+            "nota": 7
         },
         {
             "id": 3,
@@ -23,6 +23,18 @@
             "nom": "Pere",
             "cognoms": "Ribalta Nieto",
             "nota": 7
+        },
+        {
+            "id": 5,
+            "nom": "Lluïs",
+            "cognoms": "Marco Mermi",
+            "nota": 5
+        },
+        {
+            "id": 6,
+            "nom": "Míriam",
+            "cognoms": "Estruga Sánchez",
+            "nota": 6
         }
     ]
 }
